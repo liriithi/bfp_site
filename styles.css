@@ -1,0 +1,25 @@
+:root{
+   --meutituloazul:#c23434;
+
+}
+
+.firstarticle{
+    margin: 2em;
+    height: 10em;
+    width: 10em;
+    background-color: aquamarine;
+}
+
+.secondarticle{
+    margin: 2em;
+    height: 10em;
+    width: 10em;
+    background-color: blue;
+}
+
+.thirtyarticle{
+    margin: 2em;
+    height: 10em;
+    width: 10em;
+    background-color: palevioletred;
+}
